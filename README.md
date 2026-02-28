@@ -47,8 +47,8 @@ Zobaczysz interaktywną dokumentację — możesz klikać każdy endpoint i od r
 | Adres                                  | Co robi                        | Przykładowy wynik                          |
 |----------------------------------------|--------------------------------|--------------------------------------------|
 | http://127.0.0.1:8000/                 | Zwraca "Hello World"           | `{"message": "Hello World"}`               |
-| http://127.0.0.1:8000/hello/Anna       | Wita podaną osobę              | `{"message": "Hello Anna"}`                |
-| http://127.0.0.1:8000/info             | Informacje o aplikacji         | `{"nazwa": "...", "wersja": "...", ...}`    |
+| http://127.0.0.1:8000/hello/Andrzej    | Wita podaną osobę              | `{"message": "Hello Andrzej"}`             |
+| http://127.0.0.1:8000/info             | Informacje o aplikacji         | `{"nazwa": "...", "wersja": "...", ...}`   |
 
 Zamiast `Anna` możesz wpisać dowolne imię lub słowo.
 
